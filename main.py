@@ -52,6 +52,7 @@ def buscar_pessoas():
         ).dict()
     )
 
+
 @server.get('/pessoas/<int:id>')
 @spec.validate(resp=Response(HTTP_200=Pessoa))
 def buscar_pessoa(id):
