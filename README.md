@@ -1,4 +1,4 @@
-# API Rest em Python utilizando o Flask e TinyDB
+# API Rest em Python utilizando o Flask e TinyDB 🐍
 
 ## API Rest desenvolvida em Python - Live de Python #175 (Eduardo Mendes) - https://www.youtube.com/watch?v=1_nQ5A2HcgU
  
