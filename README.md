@@ -5,6 +5,7 @@ API Rest desenvolvida em Python - Live de Python #175 (Eduardo Mendes) - https:/
 Foi implementada uma API em Python utilizando Flask e TinyDB
 
 Documentação do Flask: https://flask.palletsprojects.com/en/2.2.x/
+
 Documentação do TinyDB: https://tinydb.readthedocs.io/en/latest/
 
 ✅ Para acessar a documentação (Swagger), rodar a aplicação localmente e acessar:
